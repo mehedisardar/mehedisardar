@@ -6,7 +6,7 @@ FI Engineer
 
 * 🌍  I'm based in London
 * 🖥️  See my personal website at [mehedisardar.com](http://mehedisardar.com)
-* ✉️  You can contact me at [mehedi.sardar@tradingtechnologies.com](mailto:mehedi.sardar@tradingtechnologies.com)
+* ✉️  You can contact me at [mehedi.sardar@tradingtechnologies.com](mailto:sardarmedi@gmail.com)
 * 🧠  Currently I'm working with Kubernetes and automating workflows through Ansible scripts
 
 ### Skills
