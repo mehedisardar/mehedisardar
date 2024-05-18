@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mehedi Sardar
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Mehedi Sardar
 =====================================================================================================================================
 
-FI Engineer
+FI Engineer / SRE
 -----------------------------
 
-* 🌍  I'm based in London
+* 🌍  I'm based in London, UK
 * 🖥️  See my personal website at [mehedisardar.com](http://mehedisardar.com)
 * ✉️  You can contact me at [sardarmedi@gmail.com](mailto:sardarmedi@gmail.com)
 * 🧠  Currently I'm working with Kubernetes and automating workflows through Ansible scripts
