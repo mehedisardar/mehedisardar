@@ -7,7 +7,7 @@ Cloud Engineer at AWS
 * 🌍  I'm based in London, UK
 * 🖥️  See my personal website at [mehedisardar.com](http://mehedisardar.com)
 * ✉️  You can contact me at [sardarmedi@gmail.com](mailto:sardarmedi@gmail.com)
-* 🧠  Currently I'm working with Kubernetes and automating workflows through Ansible scripts
+* 🧠  Currently learning web scraping with Python + Selenium / Playwright
 
 ### Skills
 
