@@ -6,6 +6,7 @@ Cloud Engineer at AWS
 
 * 🌍  I'm based in London, UK
 * 🖥️  See my personal website at [mehedisardar.com](http://mehedisardar.com)
+* 📝  See my latest blogs in [Medium](https://medium.com/@mehedisardar)
 * ✉️  You can contact me at [sardarmedi@gmail.com](mailto:sardarmedi@gmail.com)
 * 🧠  Currently learning web scraping with Python + Selenium / Playwright
 
